@@ -1,4 +1,3 @@
-```markdown
 # 🍲 API Culinária
 
 API desenvolvida para gerenciamento de receitas e ingredientes, incluindo criação, listagem e detalhamento das receitas e seus materiais.
